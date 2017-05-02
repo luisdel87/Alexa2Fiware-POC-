@@ -1,0 +1,8 @@
+welcome: What do you wanna know about BIO?
+
+round: Can you repeat the numbers {{ numbers|join(", ") }} backwards?
+
+win: Good job!
+
+
+test: All your base belongs to us
